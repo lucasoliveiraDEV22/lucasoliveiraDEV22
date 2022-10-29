@@ -8,7 +8,7 @@ Meu nome é Lucas Oliveira, sou um programador Front-End e, atualmente estou apr
 - <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git-logo">
 - <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript-logo">
 <br>
-__### Connect with me__
+# Connect with me #
 <br>
 Minhas outras redes sociais:point_down:
 <br>
