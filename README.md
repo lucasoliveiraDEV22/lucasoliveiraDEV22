@@ -18,7 +18,7 @@ Meu nome é Lucas Oliveira, sou um desenvolvedor web focado em Back-End.  Atualm
 Minhas outras redes sociais:point_down:
 <br>
 <a href = "https://www.instagram.com/englucasrones/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram-logo"></a>
-<a href = "https://www.linkedin.com/in/lucas-oliveira-272a5610b/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin-logo"></a>
+<a href = "https://www.linkedin.com/in/lucas-rones/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin-logo"></a>
 <a href = "https://www.facebook.com/lucas.anjoss/" target = "_blank"><img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt = "facebook-logo"></a>
 <a href = "https://www.tiktok.com/@lucasrones22" target "_blank"><img src = "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt = "TikTok-logo"></a>
 
