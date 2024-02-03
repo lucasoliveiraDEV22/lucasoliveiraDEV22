@@ -1,12 +1,17 @@
 ### Hi there 👋
 
-Meu nome é Lucas Oliveira, sou um programador Front-End e, atualmente estou aprendendo e criando projetos com: ✏️
+Meu nome é Lucas Oliveira, sou um desenvolvedor web focado em Back-End.  Atualmente estou em transição de carreira e criando projetos com: ✏️
 <br>
 <br>
 - <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
 - <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo"></a>
 - <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git-logo">
 - <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript-logo">
+- <img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt = "node-logo">
+- <img src = "https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="yarn-logo">
+- <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-logo">
+- <img src = "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt = "vite-logo">
+- <img src = "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt = "jwt-logo">
 <br>
 <b>### Connect with me </b>
 <br>
