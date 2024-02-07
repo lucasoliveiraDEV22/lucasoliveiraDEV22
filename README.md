@@ -19,7 +19,7 @@
 
 <br>
 
-Minhas outras redes sociais:point_down:
+Minhas outras redes sociais :point_down:
 <br>
 <a href = "https://www.instagram.com/englucasrones/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram-logo"></a>
 <a href = "https://www.linkedin.com/in/lucas-rones/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin-logo"></a>
